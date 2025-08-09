@@ -10,7 +10,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="🗣️Debaty",
+    page_title="Debaty",
     page_icon="🗣️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -366,7 +366,7 @@ if __name__ == "__main__":
     # Header
     st.markdown("""
     <div class="main-header">
-        <h1>🎯 AI Debate Arena</h1>
+        <h1>🎯 Debaty</h1>
         <p>Watch two advanced AI models engage in structured intellectual discourse</p>
     </div>
     """, unsafe_allow_html=True)
