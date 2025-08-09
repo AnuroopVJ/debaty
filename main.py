@@ -10,8 +10,8 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Debate Arena",
-    page_icon="🎯",
+    page_title="🗣️Debaty",
+    page_icon="🗣️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
